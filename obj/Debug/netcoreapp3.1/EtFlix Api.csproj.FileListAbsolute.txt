@@ -1,0 +1,40 @@
+C:\Users\SgnGodsSon\source\repos\EtFlix\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SgnGodsSon\source\repos\EtFlix\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SgnGodsSon\source\repos\EtFlix\bin\Debug\netcoreapp3.1\EtFlix Api.exe
+C:\Users\SgnGodsSon\source\repos\EtFlix\bin\Debug\netcoreapp3.1\EtFlix Api.deps.json
+C:\Users\SgnGodsSon\source\repos\EtFlix\bin\Debug\netcoreapp3.1\EtFlix Api.runtimeconfig.json
+C:\Users\SgnGodsSon\source\repos\EtFlix\bin\Debug\netcoreapp3.1\EtFlix Api.runtimeconfig.dev.json
+C:\Users\SgnGodsSon\source\repos\EtFlix\bin\Debug\netcoreapp3.1\EtFlix Api.dll
+C:\Users\SgnGodsSon\source\repos\EtFlix\bin\Debug\netcoreapp3.1\EtFlix Api.pdb
+C:\Users\SgnGodsSon\source\repos\EtFlix\obj\Debug\netcoreapp3.1\EtFlix Api.csprojAssemblyReference.cache
+C:\Users\SgnGodsSon\source\repos\EtFlix\obj\Debug\netcoreapp3.1\EtFlix Api.AssemblyInfoInputs.cache
+C:\Users\SgnGodsSon\source\repos\EtFlix\obj\Debug\netcoreapp3.1\EtFlix Api.AssemblyInfo.cs
+C:\Users\SgnGodsSon\source\repos\EtFlix\obj\Debug\netcoreapp3.1\EtFlix Api.csproj.CoreCompileInputs.cache
+C:\Users\SgnGodsSon\source\repos\EtFlix\obj\Debug\netcoreapp3.1\EtFlix Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SgnGodsSon\source\repos\EtFlix\obj\Debug\netcoreapp3.1\staticwebassets\EtFlix Api.StaticWebAssets.Manifest.cache
+C:\Users\SgnGodsSon\source\repos\EtFlix\obj\Debug\netcoreapp3.1\staticwebassets\EtFlix Api.StaticWebAssets.xml
+C:\Users\SgnGodsSon\source\repos\EtFlix\obj\Debug\netcoreapp3.1\scopedcss\bundle\EtFlix Api.styles.css
+C:\Users\SgnGodsSon\source\repos\EtFlix\obj\Debug\netcoreapp3.1\EtFlix Api.RazorTargetAssemblyInfo.cache
+C:\Users\SgnGodsSon\source\repos\EtFlix\obj\Debug\netcoreapp3.1\EtFlix Api.dll
+C:\Users\SgnGodsSon\source\repos\EtFlix\obj\Debug\netcoreapp3.1\EtFlix Api.pdb
+C:\Users\SgnGodsSon\source\repos\EtFlix\obj\Debug\netcoreapp3.1\EtFlix Api.genruntimeconfig.cache
+C:\Users\SgnGodsSon\source\repos\EtFlix\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\SgnGodsSon\source\repos\EtFlix\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\SgnGodsSon\source\repos\EtFlix\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SgnGodsSon\source\repos\EtFlix\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SgnGodsSon\source\repos\EtFlix\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SgnGodsSon\source\repos\EtFlix\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SgnGodsSon\source\repos\EtFlix\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SgnGodsSon\source\repos\EtFlix\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SgnGodsSon\source\repos\EtFlix\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SgnGodsSon\source\repos\EtFlix\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SgnGodsSon\source\repos\EtFlix\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\SgnGodsSon\source\repos\EtFlix\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SgnGodsSon\source\repos\EtFlix\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\SgnGodsSon\source\repos\EtFlix\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\SgnGodsSon\source\repos\EtFlix\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\SgnGodsSon\source\repos\EtFlix\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\SgnGodsSon\source\repos\EtFlix\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\SgnGodsSon\source\repos\EtFlix\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\SgnGodsSon\source\repos\EtFlix\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SgnGodsSon\source\repos\EtFlix\obj\Debug\netcoreapp3.1\EtFlix Api.csproj.CopyComplete
