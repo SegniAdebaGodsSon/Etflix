@@ -65,5 +65,20 @@ namespace EtFlix_Api.Data
             return movies;
 
         }
+
+        public IEnumerable<Actor> GetMovieActors(int movieId)
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool saveChanges()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void CreateMovie(Movie movie)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

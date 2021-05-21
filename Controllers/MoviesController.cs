@@ -1,4 +1,6 @@
-﻿using EtFlix_Api.Data;
+﻿using AutoMapper;
+using EtFlix_Api.Data;
+using EtFlix_Api.Dtos;
 using EtFlix_Api.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -16,28 +18,47 @@ namespace EtFlix_Api.Controllers
     public class MoviesController : ControllerBase
     {
         private readonly IEtFlixRepo _repository;
+        public readonly IMapper _mapper;
 
-        public MoviesController(IEtFlixRepo repository)
+        public MoviesController(IEtFlixRepo repository, IMapper mapper)
         {
             _repository = repository;
+            _mapper = mapper;
         }
 
         // GET api/movies
         [HttpGet]
-        public ActionResult <IEnumerable<Movie>> GetAllMovies()
+        public ActionResult <IEnumerable<MovieReadDto>> GetAllMovies()
         {
             var movieItems = _repository.GetAllMovies();
-            return Ok(movieItems);
+            return Ok(_mapper.Map<IEnumerable<MovieReadDto>>(movieItems));
         }
 
-        
 
         // GET api/movies/{id}
-        [HttpGet("{id}")]
-        public ActionResult<Movie> GetMovieById(int id)
+        [HttpGet("{id}", Name ="GetMovieById")]
+        public ActionResult<MovieDetailReadDto> GetMovieById(int id)
         {
             var movieItem = _repository.GetMovieById(id);
-            return Ok(movieItem);
+            
+            if(movieItem != null) 
+                return Ok(_mapper.Map<MovieDetailReadDto>(movieItem));
+            return NotFound();
+        }
+    
+    
+    
+        // POST api/mocies
+        [HttpPost]
+        public ActionResult<MovieReadDto> CreateMovie(MovieCreateDto movieCreateDto)
+        {
+            var movieModel = _mapper.Map<Movie>(movieCreateDto);
+            _repository.CreateMovie(movieModel);
+            _repository.saveChanges();
+
+            var movieReadDto = _mapper.Map<MovieReadDto>(movieModel);
+
+            return CreatedAtRoute(nameof(GetMovieById), new { Id = movieReadDto.Id}, movieReadDto);
         }
     }
 }

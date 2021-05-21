@@ -38,3 +38,5 @@ C:\Users\SgnGodsSon\source\repos\EtFlix\bin\Debug\netcoreapp3.1\System.Collectio
 C:\Users\SgnGodsSon\source\repos\EtFlix\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
 C:\Users\SgnGodsSon\source\repos\EtFlix\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 C:\Users\SgnGodsSon\source\repos\EtFlix\obj\Debug\netcoreapp3.1\EtFlix Api.csproj.CopyComplete
+C:\Users\SgnGodsSon\source\repos\EtFlix\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\SgnGodsSon\source\repos\EtFlix\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

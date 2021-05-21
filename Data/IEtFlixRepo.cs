@@ -8,8 +8,15 @@ namespace EtFlix_Api.Data
 {
     public interface IEtFlixRepo
     {
+        bool saveChanges();
+
+
         IEnumerable<Movie> GetAllMovies();
         IEnumerable<Genre> GetAllGenres();
+        IEnumerable<Actor> GetMovieActors(int movieId);
         Movie GetMovieById(int id);
+
+
+        void CreateMovie(Movie movie);
     }
 }
